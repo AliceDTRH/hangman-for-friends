@@ -1,0 +1,1 @@
+# hangman-for-friends
